@@ -1,6 +1,10 @@
 # Hi! I am Mounir JAOUHARI 👋
 
-### Co-Fonder [Zabaqist.com](https://zabaqist.com)
+<aside>
+As a PhD student in mathematics, I have solid experience and advanced knowledge in multi-scale analysis and homogenization. However, I have also acquired expertise in my field of research.
+My current research focuses on the application of these techniques to the modeling of complex physical phenomena, such as wave propagation in metamaterials. 
+In addition to my research, I have also gained teaching experience in secondary schools and as a part-time university lecturer, which has enabled me to develop skills in communication, pedagogy and classroom management.
+</aside>
 
 
 ## 🤝 Connect with me:
