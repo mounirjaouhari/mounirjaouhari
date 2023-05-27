@@ -1,9 +1,10 @@
 # Hi! I am Mounir JAOUHARI 👋
 
 <aside>
-As a PhD student in mathematics, I have solid experience and advanced knowledge in multi-scale analysis and homogenization. However, I have also acquired expertise in my field of research.
+PhD in mathematics, I have solid experience and advanced knowledge in multi-scale analysis and homogenization. However, I have also acquired expertise in my field of research.
 My current research focuses on the application of these techniques to the modeling of complex physical phenomena, such as wave propagation in metamaterials. 
 In addition to my research, I have also gained teaching experience in secondary schools and as a part-time university lecturer, which has enabled me to develop skills in communication, pedagogy and classroom management.
+I'm also interested in data science and its applications, particularly in my field of research.
 </aside>
 
 
